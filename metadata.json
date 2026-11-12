@@ -1,0 +1,6 @@
+{
+  "name": "AttendIQ - Period-Wise Attendance & Sensor System",
+  "description": "Daily & period-wise student attendance with weekly branch timetables, parent missed-class alerts, biometric & facial recognition kiosk, and desk absence audio sensors.",
+  "requestFramePermissions": ["camera"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
